@@ -1,0 +1,19 @@
+.categories-items{
+    height: 0;
+    overflow: hidden;
+    transition:all .5s ease-in-out;
+    position: absolute;
+}
+.categories-btn:hover,.categories-container:hover .categories-items{
+    height: fit-content;
+    transition:all .5s ease-in-out;
+}
+.sub-menu-container{
+    position: absolute;
+    overflow: hidden;
+    height: 0;
+}
+.nav-item:hover .sub-menu-container{
+    height: fit-content;
+    padding-top:10px ;
+}

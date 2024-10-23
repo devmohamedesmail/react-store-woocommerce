@@ -1,0 +1,7 @@
+.sub-mobile-menu-container{
+    height: 0;
+    overflow: hidden;
+}
+.nav-item:hover .sub-mobile-menu-container{
+    height: fit-content;
+}

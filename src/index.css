@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-primary{
+    background-color: red;
+}
+.text-primary{
+    color: red;
+}
+.border-primary{
+    border: 1px solid red !important;
+}
+body{
+    background-color: #f3f3f3;
+}
