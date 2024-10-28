@@ -6,8 +6,8 @@ import { FaWhatsapp } from "react-icons/fa";
 
 const  ApiData = {
     url:'https://nasmart.online/',
-    Consumerkey :'ck_2d9797a233c217ae3d6022615eeccf667d9112a9',
-    Consumersecret :'cs_cdcf4301855e3496904654d90a4008a11eeeae75',
+    Consumerkey :'ck_88286fdced06dac71f23112edd516bd72239faee',
+    Consumersecret :'cs_b4d64a23ae0c943a0e3826eb32236cc52ca46eec',
     currency_ar:'درهم',
     currency_en:'AED',
     description:'Online Store For Best Brand Electronics',
